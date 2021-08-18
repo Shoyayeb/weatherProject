@@ -17,7 +17,7 @@ app.get("/", function (req, res) {
     // const url = "https://api.openweathermap.org/data/2.5/forecast?q=bangladesh&appid=3e46c14c99620c15ff05dab453f5d646&units=metric"
 
 // other country    working
-    const url = "https://api.openweathermap.org/data/2.5/forecast?q=usa&appid=3e46c14c99620c15ff05dab453f5d646&units=metric" 
+    const url = "https://api.openweathermap.org/data/2.5/forecast?q=dhaka&appid=3e46c14c99620c15ff05dab453f5d646&units=metric" 
 
 
     // main problem is some city work but some city doesn't work.
